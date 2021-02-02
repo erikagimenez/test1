@@ -12,5 +12,8 @@ Esto es una lista desordenada:
 * Elemento 3 
   * Elemento 3.1 
 
+# mi nombre 
 Erika Gimenez Coll 
 
+# fecha 
+02/02/2021 
