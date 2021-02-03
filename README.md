@@ -19,4 +19,4 @@ Erika Gimenez Coll
 02/02/2021 
 
 # Enlaces 
-[Enlace a página 2](pagina2)
+[Enlace a página 2](pagina2.md)
