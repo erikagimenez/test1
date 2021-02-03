@@ -1,3 +1,3 @@
-# Página2 
+# Página 2 
 
 Esta es la página 2 de nuestro sitio. 
